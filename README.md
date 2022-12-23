@@ -1,4 +1,4 @@
-**# WishMySoul**
+# **WishMySoul**
 
 Hello and welcome to the WishMySoul project frontpage!
 WishMySoul is an original project created by @Freezentic and @Araslauw
